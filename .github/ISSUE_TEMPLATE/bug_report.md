@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: text [BUG].
 labels: bug
-assignees: proh14
+assignees: benherbst
 
 ---
 
