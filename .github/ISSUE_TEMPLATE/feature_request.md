@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for this project
 title: text [FEATURE].
 labels: feature
-assignees: proh14
+assignees: benherbst
 
 ---
 
