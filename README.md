@@ -1,17 +1,13 @@
 <h1 align="center">
   <br>
-  <img src="./images/logo.png" alt="ptext logo" width="200">
+  <img src="https://proh14.net/images/avatar2.jpg" alt="pvirua logo" width="200">
   <br>
-  ptext
+  pvirua
   <br>
 </h1>
-<h4 align="center">A nano like text editor built with pure C </h4>
+<h4 align="center">A vim like code editor built with Assembly </h4>
 
-ptext is a text editor based on kilo. <br> 
-My goal in making this was to learn more about managing tui interfaces not using ncurses.</br> 
-
-### Preview🙈:
-https://github.com/proh14/ptext/assets/95998030/08ee068b-fe9b-4d3f-b3e4-49d3a66855d5
+pvirua is a text editor based on ptext.
 
 ### How to install⬇️:
 1. Clone this repo.
@@ -28,7 +24,7 @@ make
 ```shell
 cd build
 ```
-4. run ptext!
+4. run pvirua!
 ```shell
 ./ptext <filename>
 ```
@@ -43,36 +39,14 @@ ptext <file name>
 ``` 
 to start the editor.
 
-### A little bit of documentation📖:
-- To exit you can press CTRL + q
-- To save you can press CTRL + s
-- To search you can press CTRL + f
-- To search & replace you can press CTRL + r
-- To goto the start of the line you can press CTRL + a
-- To goto the end of the line you can press CTRL + e
-- To goto the start of the file you can press CTRL + u
-- To goto the end of the file you can press CTRL + d
-
-### Goals🥅:
-1. Fix syntax highlighting.
-2. Add a plugin system.
-3. Add windows.
-4. Add utf support.
-5. Read the terminfo database.
-
 ### Work in progress⚒️:
 This is still a work in progress project!
 
 ### Contributions💖:
-I appreciate contributions but first of all, you must read the <br>
-Read the [CONTRIBUTING.md](CONTRIBUTING.md) Then you can send your pr!
-
-### Thank you Stargazers⭐:
-[![Stargazers repo roster for @proh14/ptext](http://reporoster.com/stars/proh14/ptext)](https://github.com/proh14/ptext/stargazers)
-
-### Thank you Forkers🍴:
-[![Forkers repo roster for @proh14/ptext](http://reporoster.com/forks/proh14/ptext)](https://github.com/proh14/ptext/network/members)
+I appreciate any donations to my paypal or github sponsorings. Thanks
 
 ### A huge thanks to🙏:
 1. [viewsourcecode](https://viewsourcecode.org)
 2. [kilo](https://github.com/antirez/kilo)
+3. [pro14](https://proh14.net/)
+4. [ben herbst](https://www.benherbst.net/)
