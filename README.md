@@ -48,5 +48,5 @@ I appreciate any donations to my paypal or github sponsorings. Thanks
 ### A huge thanks to🙏:
 1. [viewsourcecode](https://viewsourcecode.org)
 2. [kilo](https://github.com/antirez/kilo)
-3. [pro14](https://proh14.net/)
+3. [noob14](https://proh14.net/)
 4. [ben herbst](https://www.benherbst.net/)
